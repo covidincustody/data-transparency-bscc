@@ -1,0 +1,158 @@
+,,"Notes
+1. Create a separate time period if no data reported for 4 or more consecutive weeks (time periods coded by incarcerated population data standards, not staff data.)
+2. U (reported as unavailable): Mark as unreported
+3. If data is reported on a website, include the website link or any relevant documents in the ""Notes"" column
+4. Code any unknown frequency as 0",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+County,Facility,Time Period,Incarcerated Population (Adult correctional facilities),,,,,,,,,,,,,,,,,,,Notes
+,,,Reporting on website,,,,,,,,,Reporting to BSCC,,,,,,,,,,
+,,,Active cases,Cumulative confirmed cases,Resolved cases in custody,Deaths,Testing,Population,Vaccinations,Frequency,History available,Active cases,Cumulative confirmed cases,Resolved cases in custody,Deaths,Testing,Population,Vaccinations,Frequency,History available,Total number of unreported weeks,
+San Francisco,Reports data as county totals,07.25.20 - 08.22.20,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6,https://www.sfsheriff.com/covid-19-jail-community-programs-sfso-staff-data
+,,08.29.20 - 02.05.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,,
+,,02.12.22 - 06.04.22,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
+,,06.11.22 - 07.23.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,,
+Santa Clara,Elmwood Complex - Men's facility,07.25.20 - 06.25.22,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,0,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard
+,Elmwood Complex - Women's facility,07.25.20 - 06.25.22,,,,,,,,,,0,0,0,0,0,1,0,1,1,0,
+,Santa Clara County Main Jail,07.25.20 - 06.25.22,,,,,,,,,,0,0,0,0,0,1,0,1,1,0,
+Fresno,Fresno County Main Jail/North Annex/South Annex,07.25.20 - 06.25.22,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,1,1,2,https://www.fresnosheriff.org/media-relations/more-than-600-inmates-test-positive-for-covid-19.html
+Sacramento,Main Jail & Rio Cosumnes Correctional Center,07.25.20 - 07.27.22,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,All,"https://www.sacsheriff.com/pages/covid19.php
+Staff Data is obtained from Sacramento PHAB monthly meetings. Sacramento Sheriff's Office reports data on vaccinations, but do not report cumulative numbers."
+Alameda,Santa Rita Jail,04.04.20 - 07.24.20,1,1,1,1,1,1,1,1,1,NA,,,,,,,,,,
+,,07.25.20 - 06.25.22,,,,,,,,,,1,0,0,1,1,1,0,1,1,3,https://www.alamedacountysheriff.org/about-us/covid-19-stats
+Contra Costa,Martinez Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,West County Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Sonoma ,Sonoma-North County Facilty,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,
+,Sonoma County Main Adult Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Stanislaus,Public Safety Center Units 1 & 2 ,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,REACT Center,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Stanislaus Co. Public Safety Center,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Riverside,Blythe Jail,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Indio Jail,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Southwest Detention Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Larry D. Smith Correctional Facility,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Robert Presley Detention Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+San Benito,San Benito Adult Detention,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,2,
+San Bernardino,San Bernardino Central Detention Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,San Bernardino County Glen Helen Rehabilitation Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+,San Bernardino High Desert Detention Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,West Valley Detention Center,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+San Diego,East Mesa Reentry Facility,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,"https://www.sdsheriff.gov/home/showpublisheddocument/5392 https://www.sdsheriff.gov/home/showpublisheddocument/5394 https://www.sdsheriff.gov/home/showpublisheddocument/5396 https://www.sdsheriff.gov/home/showpublisheddocument/5328/637891663573670000 
+
+Vaccination data on SDSO website is a count of those who have received their first dose of  Moderna or Pfizer and single-dose of J&J. Count includes only vaccines administered by SDSO medical personnel.
+
+San Diego Facility #8 unoccupied from the week of 07.10.21 onwards."
+,George Bailey Detention Facility,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,
+,Las Colinas Women's Detention,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,
+,San Diego Central Jail,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,
+,South Bay Detention Facility - Chula Vista,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,
+,Vista Detention Facility,07.25.20 - 07.23.22,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,
+,Work Furlough/Corr. Alternative,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,San Diego Facility #8,07.25.20 - 07.03.21,1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,
+San Joaquin,John J. Zunino Facility/San Joaquin County Honor Farm,07.25.20 - 07.16.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+San Luis Obispo,San Luis Obispo County Jail,07.25.20 - 07.09.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,2,
+San Mateo,Maguire Correctional Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,Staff Testing only available for 7/25/20-8/7/20
+,Maple Street Correctional Center,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,SM Transitional Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+,Camp Glenwood,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+,Log Cabin Ranch School,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,San Mateo County Minimum Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,Spanish Town Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Santa Barbara,Santa Barbara County Main Jail,07.25.20 - 06.25.22,1,0,1,0,0,0,1,0,1,1,0,1,1,1,1,0,1,1,6,
+,Northern Branch Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,All,
+,Santa Maria Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+Santa Cruz,Santa Cruz Blaine Street Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,3,
+,Santa Cruz County Main Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,3,
+,Santa Cruz County Minimum Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+,Santa Cruz Rountree Medium Security Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,3,
+Shasta,Anderson Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+,Shasta County Main Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Sierra,Sierra County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+Siskiyou,Siskiyou County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Solano,Solano County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,2,Staff Resolved Cases only available after 8/1/2020
+,Stanton Correction Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,6,
+,Claybank Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,2,
+Modoc,Modoc County Jail,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,Some additional BSCC data
+Mono,Mono County Jail,07.25.20 - 07.16.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Monterey,Monterey County Jail,07.25.20 - 01.08.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,Unknown update frequency for website
+,,01.10.22 - 07.09.22,1,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,1,1,
+Napa,Napa County Jail,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Nevada,Wayne Brown Correctional Facility,07.25.20 - 07.23.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,Staff tested regularly
+Orange,Intake Release Center,07.25.20 - 07.23.22,1,1,1,0,1,0,0,1,0,1,0,1,1,1,1,0,1,1,0,"unknown update frequency for website: website
+Frequency for website checked using wayback machine. May 17, 2021, is the earliest data available for the website via wayback machine.
+Website reports statistics as county totals"
+,Orange County Mens Jail,,,,,,,,,,,1,0,1,1,1,1,0,1,1,0,
+,Orange County Women's Jail,,,,,,,,,,,1,0,1,1,1,1,0,1,1,0,
+,Theo Lacy,,,,,,,,,,,1,0,1,1,1,1,0,1,1,0,
+Placer,Placer County Main Jail,07.25.20 - 07.16.22,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,4,BSCC data inconsistent; unknown update frequency for website; website data for all jails in county
+,South Placer Jail,07.25.20 - 07.09.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,5,
+Plumas,Plumas County Jail,07.25.20 - 06.12.21,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,6,BSCC data gaps inconsistent for staff and incarcerated population
+,,06.19.21 - 08.14.21,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,
+,,08.21.21 - 03.12.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+,,03.19.22 - 04.30.22,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,
+,,05.07.22 - 07.09.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+Yolo,Monroe Detention Center,03.13.20 - 06.29.20,1,0,0,1,1,1,0,0,0,NA,,,,,,,,,,"The BSCC only launched its COVID-19 data centralization effort in July, 2020."
+,,07.25.20 - 03.09.21,,,,,,,,,,1,0,1,1,1,1,0,1,1,6,
+,,03.13.21 - 03.05.22,0,0,0,0,0,0,0,0,0,,,,,,,,,,,
+,,03.12.22 - 04.02.22,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
+,,04.09.22  - 05.21.22,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,
+,,05.28.22 - 06.25.22,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
+Yuba,Yuba County Jail,03.01.20 - 07.24.20,0,0,0,0,0,0,0,0,0,NA,,,,,,,,,,
+,,07.25.20 - 06.25.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,0,
+Sutter ,Sutter County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+Tehama,Tehama County Jail,07.25.20 - 11.21.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,
+,,11.28.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,
+Trinity,Trinity County Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,8,
+Tulare,Bob Wiley Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+,Pre- Trial Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,
+,South Couny Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,
+,Tulare County Jail,07.25.20 - 09.25.21,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,"Tulare county jail unoccupied from 08.08.20 onwards, closed 04.17.21 onwards"
+Tuolumne,Tuolumne County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,4,
+Ventura,Ventura County Main Jail/ Todd Road Jail ,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,2,
+El Dorado,El Dorado County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,2,
+,South Lake Tahoe Jail,07.25.20 - 06.25.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,4,
+Glenn,Glenn County Adult Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,12 staff vaccinated as of 3/27/21 
+Humboldt,Humboldt County Coreectional Facility,07.25.20 - 10.03.20,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,41,
+,,10.10.20 - 01.02.21,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
+,,01.09.21 - 07.03.21,,,,,,,,,,1,0,1,1,1,1,0,1,1,,
+,,07.10.21 - 11.27.21,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
+,,12.04.21 - 06.25.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,,
+Imperial,Herbert Hughes Correctional Center,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+,Imperial Adult Regional Faciility,,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+,Imperial County Oren Fox Det. Facility,,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+Inyo,Inyo County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,8,
+Kern,Central Receiving Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,
+,Kern County Justice Facility,07.25.20 - 06.25.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+,Lerdo Pre-Trial Facility,07.25.20 - 06.25.22,,,,,,,,,,1,0,1,1,1,1,0,1,1,1,
+,All facilities,03.31.20 - 05.31.22,0,1,1,1,0,0,0,0,0,NA,,,,,,,,,,"https://kernsheriff.org/Detentions_Document/KCSO_MonthlyCOVID19Report.pdf
+Monthly data for all facilities in Kern county"
+Kings,Kings County Jail Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,2,Website says to go to BSCC website for covid data
+Amador,Amador County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+Alpine,Alpine County Sheriff's Department,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,
+Butte,Butte County Jail,07.25.20 - 06.25.22,1,1,1,0,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,"https://www.buttecounty.net/sheriffcoroner/Covid19 
+Start date and frequency for Sheriff's Office website reporting unknown."
+Calaveras,Calaveras County Adult Detention Facility ,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Lake,Lake County Hill Road Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,4,
+Colusa,Colusa County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,
+Lassen,Lassen Adult Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,9,
+Madera,Madera Adult Correctional Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,24,
+Marin,Marin County Jail,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,9,
+Mariposa,Mariposa County Adult Detention Facility,07.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,3,
+Mendocino,Mendocino Adult Detention Facility,07.25.20 - 11.28.20,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,10,
+,,12.05.20 - 12.26.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,,01.02.21 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,,
+Merced,John Latorraca Correctional Center,07.25.20 - 04.24.21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,"Stand-alone data reported 08.22.20 and 11.28.20
+Combined data with Merced County Jail reported 03.27.21, 05.22.21, 04.09.22 - 04.23.22, 05.21.22 - 06.25.22"
+,,05.21.22 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,Combined data with Merced County Jail
+,Merced County Jail,07.25.20 - 05.22.21,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,56,
+,,05.28.21 - 05.14.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,,05.21.22 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,,Combined data with John Latorraca Correctional Center
+Los Angeles,LA Century Reg. Det. Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA Men's Central Jail,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA North County Corr. Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA Pitchess East Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA Pitchess South (No. Annex),7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA Twin Towers Corr. Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,LA Pitchness North Facility,7.25.20 - 06.25.22,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,
+,All Facilities,7.25.20 - 06.25.22,1,1,1,0,1,1,0,0,0,NA,,,,,,,,,,https://lasd.org/covid19updates/#custody_releases
+Del Norte,Del Norte County Jail,07.25.20 - 03.12.22,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,17,
+,,03.19.22 - 06.25.22,,,,,,,,,,0,0,0,0,0,0,0,0,1,,
