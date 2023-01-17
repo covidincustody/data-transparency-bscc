@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-#import original data-transparency files
 import pandas as pd
 from geopy.exc import GeocoderTimedOut
 import numpy as np
@@ -99,11 +92,6 @@ def groupby_location(df,string):
     return BSCC_by_location
 
 
-
-# In[17]:
-
-
-
 # 2. DATA VISUALIZATION
 
 def facility_visualization(Facility):
@@ -153,9 +141,6 @@ def facility_visualization(Facility):
     return BSCC_map
 
 
-# In[ ]:
-
-
 def map_illustration_facility(BSCC_map):
     """
     Map-illustration with 6 colors
@@ -191,9 +176,6 @@ def map_illustration_facility(BSCC_map):
     return m
 
 
-# In[ ]:
-
-
 def county_visualization(County):
     """
     Calculate the mean of 9 columns and classified with 6 colors
@@ -218,8 +200,8 @@ def county_visualization(County):
     County_analysis['grade']=m
     return County_analysis
 
+
 def scatter_county(County_analysis):
-    
     fig = px.scatter(data_frame = County_analysis, # data that needs to be plotted
                  x = "County", # column name for x-axis
                  y = "mean", # column name for y-axis
@@ -231,8 +213,6 @@ def scatter_county(County_analysis):
     # show the plot
     fig.show()
 
-
-# In[ ]:
 
 
 # 3. Urban & Rural Analysis
