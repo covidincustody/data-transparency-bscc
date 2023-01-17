@@ -11,5 +11,6 @@ Reminder: There is no need to change the dataset links in the files but the raw 
 
 Please contact info@covidincustody.org for any questions or concerns.
 
-#Usage
+# Usage
 There are no prerequisites or installation required. The preprocessing results and data visulization/analysis results will be stored in the same directory as utils.py and run.py. Once both code files are downloaded, please run the following:
+```python3 run.py```
