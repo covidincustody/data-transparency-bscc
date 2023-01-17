@@ -11,15 +11,15 @@ County = groupby_location(BSCC,string = "County")
 Facility = groupby_location(BSCC,string = "Facility")
 
 
-# DATA VISUALIZATION-For Facility
+#DATA VISUALIZATION-For Facility
 BSCC_map = facility_visualization(Facility)
 map_illustration_facility(BSCC_map)
 
-# DATA VISUALIZATION-For County
+#DATA VISUALIZATION-For County
 County_analysis = county_visualization(County)
 scatter_county(County_analysis)
 
-# Urban & Rural Analysis
+#Urban & Rural Analysis
 County_Urban = urban_code(County_analysis)
 correlation(County_Urban)
 
