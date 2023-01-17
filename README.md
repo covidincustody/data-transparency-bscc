@@ -10,3 +10,6 @@ As for Urban & Rural Analysis part: the relationship between data-transparency a
 Reminder: There is no need to change the dataset links in the files but the raw data are also shown in the repository.
 
 Please contact info@covidincustody.org for any questions or concerns.
+
+#Usage
+There are no prerequisites or installation required. The preprocessing results and data visulization/analysis results will be stored in the same directory as utils.py and run.py. Once both code files are downloaded, please run the following:
