@@ -9,10 +9,10 @@ As for Urban & Rural Analysis part: the relationship between data-transparency a
 
 [Here](https://github.com/covidincustody/data-transparency/blob/main/Code/data_transparency_utils.py) is the functions for those three parts
 
-Reminder: There is no need to change the dataset links in the files but the raw data are also shown in the repository.
+Reminder: There is no need to change the dataset links in the files but the [raw data]( )are also shown in the repository.
 
 Please contact info@covidincustody.org for any questions or concerns.
 
 # Usage
 There are no prerequisites or installation required. The preprocessing results and data visulization/analysis results will be stored in the same directory as utils.py and run.py. Once both code files are downloaded, please run the following:
-```python3 run.py```
+```python3 data_transparency_run.py```
