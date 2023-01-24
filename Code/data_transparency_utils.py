@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import pandas as pd
 from geopy.exc import GeocoderTimedOut
 import numpy as np
@@ -16,9 +10,6 @@ from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim
 from geopy.point import Point
 import folium
-
-
-# In[8]:
 
 
 def preprocessing_BSCC(df):
@@ -46,9 +37,6 @@ def preprocessing_BSCC(df):
         return BSCC
 
 
-# In[17]:
-
-
 def cal_time(df):
         """
         Function: Add three more columns named as Duration, Start_Day, End_Day, and calculate time period between Start_Day and End_Day
@@ -68,9 +56,6 @@ def cal_time(df):
         return df
 
 
-# In[22]:
-
-
 def group_concat(df1):
     """
     Function: Put Time period together and drop the duplicates
@@ -79,9 +64,6 @@ def group_concat(df1):
     """
     df1['Time Period'] = ' , '.join(set(df1['Time Period']))
     return df1.drop_duplicates()
-
-
-# In[24]:
 
 
 def groupby_location(df,string):
@@ -110,9 +92,6 @@ def groupby_location(df,string):
     return BSCC_by_location
 
 
-# In[25]:
-
-
 def do_geocode(address, attempt=1, max_attempts=10):
     """
     Function: Use geopy to obtain the latitude and longitude of locations and maximum attempts are 10
@@ -127,10 +106,7 @@ def do_geocode(address, attempt=1, max_attempts=10):
             return do_geocode(address, attempt=attempt+1)
         raise
 
-
-# In[26]:
-
-
+        
 def facility_visualization(Facility):
     """
     Function: Calculate the mean of 9 columns and Use geopy to obtain the latitude and longitude of locations 
@@ -173,9 +149,6 @@ def facility_visualization(Facility):
     return BSCC_map
 
 
-# In[ ]:
-
-
 def map_illustration_facility(BSCC_map):
     """
     Function: Use mean to make 6 divison and Map-illustration: from darkred to darkgreen, data-transparency increases
@@ -213,9 +186,6 @@ def map_illustration_facility(BSCC_map):
     return m
 
 
-# In[ ]:
-
-
 def county_visualization(County):
     """
     Function: Calculate the mean of 9 columns and use mean to make 6 divison
@@ -244,9 +214,6 @@ def county_visualization(County):
     return County_analysis
 
 
-# In[ ]:
-
-
 def scatter_county(County_analysis):
     """
     Function: Draw the scatter graph of County
@@ -266,9 +233,6 @@ def scatter_county(County_analysis):
     fig.show()
 
 
-# In[ ]:
-
-
 def urban_code(County_analysis):
     """
     Function: Use official region codes to show the urban-level for each county
@@ -284,9 +248,6 @@ def urban_code(County_analysis):
     County_Urban= pd.merge(County_analysis,urban_code,on=['County'])
     
     return County_Urban
-
-
-# In[ ]:
 
 
 def correlation(County_Urban):
