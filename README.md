@@ -9,7 +9,7 @@ As for Urban & Rural Analysis part: the relationship between data-transparency a
 
 [Here](https://github.com/covidincustody/data-transparency/blob/main/Code/data_transparency_utils.py) is the functions for those three parts
 
-Reminder: There is no need to change the dataset links in the files but the [raw data](https://github.com/covidincustody/data-transparency/tree/main/Data)are also shown in the repository.
+Reminder: There is no need to change the dataset links in the files but the [raw data](https://github.com/covidincustody/data-transparency/tree/main/Data) are also shown in the repository.
 
 Please contact info@covidincustody.org for any questions or concerns.
 
